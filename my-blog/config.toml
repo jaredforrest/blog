@@ -1,5 +1,5 @@
 # do NOT include a trailing slash on the base URL for web urls
-base_url = "https://blog-jared.netlify.app/"
+base_url = "https://jaredf.netlify.app/"
 title = "Jared Forrest"
 description = "Jared Forrest's blog on programming."
 default_language = "en"
